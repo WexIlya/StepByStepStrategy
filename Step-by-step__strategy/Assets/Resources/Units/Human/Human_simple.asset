@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a03708ca3fb7df1419d1bee56fc3889e, type: 3}
+  m_Name: Human_simple
+  m_EditorClassIdentifier: 
+  Faction: 1
+  UnitPrefab: {fileID: 3080916168266507246, guid: 321ceac4b103da64f9321d27c03906f2, type: 3}
